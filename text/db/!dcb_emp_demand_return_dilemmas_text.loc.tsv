@@ -1,5 +1,5 @@
 key	text	tooltip
-#Loc PackedFile;1;text/db/!dcb_emp_demand_return_dilemmas_text.loc		
+#Loc;1;text/db/!dcb_emp_demand_return_dilemmas_text.loc		
 dilemmas_localised_description_wh2_dlc13_demand_return_wh3_dlc20_combi_region_krudenwald	Historically, the region of Krudenwald has been ruled over by Hochland, but is currently under the control of the Elector Count of another state.\\n\\n Aldebrand Ludenhof, the rightful Elector Count of Hochland, has asked for your help in restoring his rule over this land immediately.	false
 dilemmas_localised_description_wh2_dlc13_demand_return_wh3_main_combi_region_aarnau	Historically, Nordland has laid claim to the lands of Marienburg since its succession, but currently Aarnau is under the control of the Elector Count of another state.\\n\\n Theoderic Gausser, the rightful Elector Count of Nordland, has asked for your help in restoring his rule over this land immediately.	false
 dilemmas_localised_description_wh2_dlc13_demand_return_wh3_main_combi_region_castle_drakenhof	Historically, the lands of Sylvania are Stirland's by right, but Castle Drakenhof is currently under the control of the Elector Count of another state.\\n\\n Alberich Haupt-Anderssen, the rightful Elector Count of Stirland, has asked for your help in restoring his rule over this land immediately.	false
