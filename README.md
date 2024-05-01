@@ -1,3 +1,5 @@
+# ***THIS MOD IS NOW DEPRECATED AS-OF OFFICIAL PATCH 5.0.0***
+
 # Empire Politics Return Region Dilemma Fix
 A mod for Total War Warhammer III. This mod implements a full and proper fix for the missing Elector regions that were previously causing the Empire Politics system to break. I was hoping that CA would fix this in patch 2.3.0, but instead they simply added a hacky script workaround to bypass dilemmas for regions that caused the break. This mod removes that workaround and adds in the missing dilemmas for all the previously broken regions.
 
